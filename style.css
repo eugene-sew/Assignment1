@@ -29,3 +29,15 @@ li.section1 {
 ol > li {
   list-style-type: upper-roman;
 }
+
+h1 {
+  color: rgb(239, 239, 253);
+  background-color: red;
+  width: 30%;
+  font-style: oblique;
+  font-family: monospace;
+}
+
+h3 {
+  font-size: 200px;
+}
