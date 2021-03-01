@@ -1,4 +1,4 @@
-* {
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -16,6 +16,16 @@ ol {
   display: inline-block;
 }
 
+ol.content__list {
+  list-style-position: inherit;
+}
+
 li.section1 {
   line-height: 30px;
+} */
+
+/* Seth's */
+
+ol > li {
+  list-style-type: upper-roman;
 }
