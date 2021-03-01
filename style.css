@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 30px 120px;
+}
+hr {
+  width: 500px;
+}
+
+ol {
+  list-style-type: upper-roman;
+  display: inline-block;
+}
+
+li.section1 {
+  line-height: 30px;
+}
